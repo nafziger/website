@@ -1,0 +1,58 @@
+Purpose:
+The website will fill a number of different purposes.
+The first will be to be a venue to learn new tools like git, flask, docker, heroku, vim, etc...
+ It will be a public facing resume.
+ It will be a portfolio of tools, visualizations, POC's, programs, and other projects I have completed or am still working.
+ It will be a private/public goal tracking system.
+ It will be a private/public blog.
+ It will be a public/private learning notes repo
+ It will be a public/private resource repo?
+ It will be a knowledge maintainence tool. Generating quizzes.
+
+
+I will add features in phases.
+1. Resume landing page
+2. 
+-------------------------------------------------------------
+BN                                         About Contact More
+-------------------------------------------------------------
+
+
+More Dropdown
+  Blog
+  Portfolio
+
+
+
+Blog
+  Devlog
+  Things of interest
+
+
+
+
+
+
+Goal Tracking 
+  The goal tracking subsystem will be complex enough to be an app in its own right.
+  Some goals are private some goals are public
+  All goals follow the SMART methodology.
+    Measurable - A study plan and unit tests of knowledge.
+	Each unit of knowledge must have summary notes and unit tests.
+	I write either use provided problem sets or generate my own.
+	I will usually extend or combine problem sets.
+        Each unit test will have a question/ problem statement and answer.
+	The answer will be the worked problem and possibly a set of input/output test cases.
+
+
+
+
+Site objects
+	Calendar
+		Links to all updates (blog, goal progress, git commit?)
+	Goal
+	
+
+git is just a version control system.
+Do I want to use Gist for markup and embedded code?
+
